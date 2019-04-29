@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"839af5d3-049c-4289-926a-d360012b42de",
+	"author":	"Scott Noyes",
+	"description":	{
+		"":	"Tie text objects to model parameters\t"
+	},
+	"version":	"1",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
